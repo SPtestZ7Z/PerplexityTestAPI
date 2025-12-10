@@ -1,5 +1,7 @@
 #pip install perplexityai
 
+#basic test of perplexity API
+
 from dotenv import load_dotenv
 import os
 from perplexity import Perplexity
